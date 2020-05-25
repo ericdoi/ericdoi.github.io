@@ -63,12 +63,12 @@ When considering the other options I took a look at some of the blogs I like and
     * Good:  Simple
     * Bad:  Ads, and it's deprecated anyway
 * **[Jekyll][jekyll]**:  Git-based static publishing
-    * Examples:  https://www.barryclark.co, https://www.digital-democracy.org/blog/, 
+    * Examples:  <https://www.barryclark.co>, <https://www.digital-democracy.org/blog/>, 
     * Good:  Fast, simple, free hosting using Github Pages
     * Bad:  
     * Notes:
         * Setup: [Build A Blog With Jekyll And GitHub Pages][smashing]
-        * Themes:  Hyde looks good. https://github.com/bbatsov/think.batsov.com/commit/43076dca10561cb02e54155ba2b2c1c99a717d47
+        * Themes:  [Hyde][hyde] looks good.
 * **[WordPress][wordpress]**:  The standard for blogs
     * (.org = just the framework, .com = Hosted)
     * Good:  Powerful, de-facto standard
@@ -78,14 +78,14 @@ When considering the other options I took a look at some of the blogs I like and
     * Good:  Free to post.  Minimal, focus on content.  Built-in distribution, SEO, etc.  Can submit to publications.
     * Bad:  Content > Author.  Opt-in paywall can be a distraction.  Not made for showing code.  More for text-based opinion pieces than reference content.  No customization.  Medium has control.
 * **DIY**
-    * Examples:  https://www.johndcook.com/blog/
+    * Examples:  <https://www.johndcook.com/blog/>
     * Good:  Learn how to build and host a website from scratch
     * Bad:  Needs a lot of time investment
 * **[Squarespace][squarespace]**:  General end-to-end solution
     * Good:  Beautiful
     * Bad:  Expensive ($12/mo+)
 * **[Ghost][ghost]**: Premium for publishing
-    * Examples:  https://openai.com/
+    * Examples:  <https://openai.com/>
     * Good:  Made for professional blogging with teams.  Open source for longevity.
     * Bad:  Very expensive ($30/mo)
 
@@ -109,5 +109,6 @@ A final disclaimer: It's possible I won't have any actual posts for a long time 
 
 [pro-reading]: https://sites.google.com/tcforlearning.edu.do/professional-reading/home?authuser=0&pli=1
 [smashing]: https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/
+[hyde]: https://hyde.getpoole.com/
 [junkcharts]: https://junkcharts.typepad.com/
 [tds]: https://towardsdatascience.com/
