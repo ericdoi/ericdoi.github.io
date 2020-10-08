@@ -20,19 +20,19 @@ On the first skim, I didn't find any of the ideas very groundbreaking (actually 
 
 The chapter basically encourages us to think about how our industries are being disrupted by data, technology, and globalization.  It's easy to pass this off as trite--I did.  Being in data science and engineering, my work directly engages with these three trends.  But these simple-sounding questions can prompt some serious reflection:
 
-### Identify the most important area of your work where new information is forcing you to make changes.
+**Identify the most important area of your work where new information is forcing you to make changes.**
 
 Tracy says information here, but I think we can think equivalently of data.  Currently I work with map data, which is increasing in coverage and richness every day.  But the most important change is probably in imagery (both photos and videos) as it is still underutilized and growing rapidly with the increasing power of mobile devices.
 
-### Determine the most significant tech breakthrough that is impacting your current and future income.
+**Determine the most significant tech breakthrough that is impacting your current and future income.**
 
 Some candidates: continued advances in pretrained neural networks e.g. GPT-3; 5G increasing the data collection pipeline from sensors and phones; increasing privacy and security risks (and public resentment) restricting data usage.
 
-### Identify the competition that is having the biggest effect on your industry/income.
+**Identify the competition that is having the biggest effect on your industry/income.**
 
 Talent competition.  Great software engineers and data professionals are everywhere, many of whom are willing to work harder for less pay.  The only thing keeping up lofty salaries in the tech world is their limited access to these jobs, from language/cultural barriers to work visa throttling.  As companies become increasingly open to having distributed teams (especially with COVID), this will change.
 
-### Decide one key discipline that you need to develop to move ahead faster in your career.
+**Decide one key discipline that you need to develop to move ahead faster in your career.**
 
 I knew immediately what I wanted to choose here.  As an engineer interested in management, my success depends on reading a wide range of both books and technical papers, and lately I've been feeling behind on this.  I resolved to read more.
 
@@ -47,18 +47,20 @@ Since I recently read Atomic Habits (I'd like to write about it later), it's sti
 
 The first one I'll just keep in my personal Evernote, but the last two I intend to do publicly on this blog as a commitment mechanism.
 
-### Choose one action that you can take immediately to improve your career/income
+**Choose one action that you can take immediately to improve your career/income.**
 
 Without going into my own specifics, I think in general some form of negotiation is a good choice.  Negotiation for role changes, raises, promotions, new job compensation, etc. is high-ROI and fast-acting.  I don't do it nearly as much as I think I should.
 
-### Identify the biggest single opportunity for you in your job or industry today.
+**Identify the biggest single opportunity for you in your job or industry today.**
 
 Honestly, I've given this some fair amount of thought and I still don't have an answer.  Instead I resolved to keep more up-to-date about industry trends and keep thinking about it.
 
-### Pick one area where you’ll take initiative to improve your work and increase your income.
+**Pick one area where you’ll take initiative to improve your work and increase your income.**
 
 The book/paper/blog reading discipline mentioned above covers this one.
 
+# Conclusion
+The content is rather simple and the book is not particularly well-organized.  However, engaging seriously with the book and especially its action exercises has led me to some useful insights and may lead to big breakthroughs in my career over the long run.  It feels a lot like with fitness: I know that diet and exercise are the way to be healthy, but the problem is not a lack of knowledge but rather a lack of action.  Definitely found the book worth a read.
 
 # Notes
 
