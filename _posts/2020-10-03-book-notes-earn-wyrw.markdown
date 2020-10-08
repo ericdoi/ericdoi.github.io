@@ -203,7 +203,7 @@ The book/paper/blog reading discipline mentioned above covers this one.
     * Start earlier, work harder, stay later.  Win the imaginary hardest-worker contest.  
     * Promote yourself.  Ask and take more responsibility.  Author voluntarily doing the report over the weekend and the boss happened to ask if he could get it early.
     * Ask for what you want.  Ask for more pay by building a lawyer-type case.  Don’t fear.  You have nothing to lose.  Asking makes you feel more deserving because you think of why your are entitled to the money rather than why not.
-    * Story:  Diane the secretary  $800/mo start, increased to $1K after 2mo, and $1.2K after another 2mo.  After next 2mo, offered $1.4K, but she asked $1.8K based on her market research.  Author relented; she had become very valuable, taking learning courses and building relationships.
+    * Story:  Diane the secretary.  $800/mo start, increased to $1K after 2mo, and $1.2K after another 2mo.  After next 2mo, offered $1.4K, but she asked $1.8K based on her market research.  Author relented; she had become very valuable, taking learning courses and building relationships.
     * Most important factor when asking:  your character.  Truthfulness and loyalty.
     * Make sure your boss is on the same page.  “All of the best days of your working life will be when you are working on what your boss considers most important."
     * Get a Mentor.  Borrow wisdom, learn proven success methods.
@@ -231,19 +231,4 @@ The book/paper/blog reading discipline mentioned above covers this one.
 * Ch 12:  Perception is everything
     * Dress well, join professional associations, donate your services
     * Study of ~100 CEOs showed the two top qualities that would put a person on fast track were ability to set priorities and a sense of urgency to get things done fast.
-
-
-        * “Don’t be like those people who drive around listening to the radio or who board the plane and either drink the whole way or just sit there looking out the window.  Turn your car into a mobile classroom and your airline seat into your flying office.  Use them both to get ahead and stay ahead of your work.”  This starts to feel like satire.
-
-            * Analyzing data (7)
-            * Writing software (ETL pipelines, model serving, feature banks) (7)
-            * Formulating ML problems and choosing models (6)
-            * Designing high-scale systems (4)
-            * Team:  Staffing, Delgating, Coaching, Evaluating (7)
-            * Org:  Cross-functional collaboration, Reporting (8)
-
-            
-                        * Designing high-scale systems.  Read more papers and blogs.
-
-            * Read papers/blogs/news, take online courses (DNN, Cassandra, Redis), do side projects, attend conferences/meetups
 
