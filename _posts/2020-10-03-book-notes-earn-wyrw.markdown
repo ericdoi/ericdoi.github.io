@@ -1,9 +1,12 @@
 ---
 layout: post
 title:  "Book Notes:  Earn What You're Really Worth, by Brian Tracy"
-date:   2020-10-03
+date:   2020-10-09
 categories: [Process, Book-Notes]
 ---
+***Book Notes Series**:  Beginning with this post, I've decided to read at least one book per month and post my notes here as a concrete deliverable.  This is part of a habit I'd like to cultivate to read more books, academic papers, and industry blogs.*
+
+***Next book**: Creativity, Inc.*
 
 A friend recently lent me this book and suggested I should read it--which I was happy to do while serving my 14 day hotel quarantine period in Shanghai.
 
@@ -36,7 +39,7 @@ Talent competition.  Great software engineers and data professionals are everywh
 
 I knew immediately what I wanted to choose here.  As an engineer interested in management, my success depends on reading a wide range of both books and technical papers, and lately I've been feeling behind on this.  I resolved to read more.
 
-Since I recently read Atomic Habits (I'd like to write about it later), it's still fresh in my mind that if I want this to reach such a goal, I need a solid habit to get me there.  So I scheduled these in my calendar:
+I've been participating in a book club at work and it has been a great help in motivating me to read and establishing a cadence.  We just recently read Atomic Habits (I'd like to write about it later), which really drove home the importance of having great habits (with concrete outcomes) to reach our goals.  So I scheduled these in my calendar:
 
 * Read 1 blog post per week
     * By every Saturday, I will read a blog post and log it with summary
