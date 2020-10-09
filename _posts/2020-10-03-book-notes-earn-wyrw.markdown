@@ -8,9 +8,9 @@ categories: [Process, Book-Notes]
 
 ***Next book**: Creativity, Inc.*
 
+# Summary
 A friend recently lent me this book and suggested I should read it--which I was happy to do while serving my 14 day hotel quarantine period in Shanghai.
 
-# Summary
 The book straddles the business, self-help, and time-management genres.  Some of the key topics:
 
 1. **Motivation**: The world is changing rapidly and success requires more work and personal initiative than before.  This message is targeted at a US-based audience, which he asserts has become overly complacent after its WW2 prosperity and is poised for a rude awakening to competition.
