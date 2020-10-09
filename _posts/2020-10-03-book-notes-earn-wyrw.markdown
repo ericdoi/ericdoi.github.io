@@ -33,7 +33,7 @@ Some candidates: continued advances in pretrained neural networks e.g. GPT-3; 5G
 
 **Identify the competition that is having the biggest effect on your industry/income.**
 
-Talent competition.  Great software engineers and data professionals are everywhere, many of whom are willing to work harder for less pay.  The only thing keeping up lofty salaries in the tech world is their limited access to these jobs, from language/cultural barriers to work visa throttling.  As companies become increasingly open to having distributed teams (especially with COVID), this will change.
+Talent competition.  Great software engineers and data professionals are everywhere, many of whom are willing to work harder for less pay.  The only thing keeping up lofty salaries in the tech world is access restriction, from language/cultural barriers to work visa throttling.  As companies become increasingly open to having distributed teams (especially with COVID), this will change.
 
 **Decide one key discipline that you need to develop to move ahead faster in your career.**
 
