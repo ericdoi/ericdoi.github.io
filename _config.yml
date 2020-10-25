@@ -32,7 +32,7 @@ github_username:  ericdoi
 disqus:
     # Leave shortname blank to disable comments site-wide.
     # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
-    shortname: eric_doi
+    shortname: ericdoi
 
 # Build settings
 theme: minima
