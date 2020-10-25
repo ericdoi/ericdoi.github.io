@@ -4,11 +4,11 @@ title:  "Book Notes:  Earn What You're Really Worth, by Brian Tracy"
 date:   2020-10-09
 categories: [Process, Book-Notes]
 ---
-***Book Notes Series**:  Beginning with this post, I've decided to read at least one book per month and post my notes here as a concrete deliverable.  This is part of a habit I'd like to cultivate to read more books, academic papers, and industry blogs.*
+***Book Notes**:  Beginning with this post, I've decided to read at least one book per month and post my notes here as a concrete deliverable.  This is part of a habit I'd like to cultivate to read more books, academic papers, and industry blogs.*
 
 ***Next book**: Creativity, Inc.*
 
-# Summary
+## Summary
 A friend recently lent me this book and suggested I should read it--which I was happy to do while serving my 14 day hotel quarantine period in Shanghai.
 
 The book straddles the business, self-help, and time-management genres.  Some of the key topics:
@@ -17,7 +17,7 @@ The book straddles the business, self-help, and time-management genres.  Some of
 2. **Theme**: To earn more we should consider ourselves CEOs of a company with ourselves as the sole employee.  This means being our own stakeholders, analyzing our competitive advantages, being strategic about what services we sell in which industry to which customers (employers), applying process optimization, investing in R&D (studying), and so on.
 3. **Content**: Job-hunting tips like conducting informational interviews; time-management advice like doing the hardest thing you need to do as the first thing in your day (i.e. Tracy's "Eat That Frog!" mantra); project management tools like mindstorms and lists; career advice like dressing well, being proactive, and seeking advice from mentors.
 
-# Action Exercises Example: Chapter 1
+## Action Exercises Example: Chapter 1
 
 On the first skim, I didn't find any of the ideas very groundbreaking (actually I still don't).  However, when I gave it an honest read and dutifully engaged with the "Action Exercises", I had some useful take-aways.  The first chapter was the most useful and I'll run through the exercises here.
 
@@ -62,10 +62,10 @@ Honestly, I've given this some fair amount of thought and I still don't have an 
 
 The book/paper/blog reading discipline mentioned above covers this one.
 
-# Conclusion
+## Conclusion
 The content is rather simple and the book is not particularly well-organized.  However, engaging seriously with the book and especially its action exercises has led me to some useful insights and may lead to big breakthroughs in my career over the long run.  It feels a lot like with fitness: I know that diet and exercise are the way to be healthy, but the problem is not a lack of knowledge but rather a lack of action.  Definitely found the book worth a read.
 
-# Notes
+## Notes
 
 * Ch 1:  The new normal
     * "Shirtsleeves to shirtsleeves in 3 generations”:  The US is too complacent after a prolonged post-WW2 dominance.  It’s a Red Queen situation:  if you aren’t running ahead, you’re falling behind.
