@@ -7,7 +7,7 @@ categories: [Process, Paper-Notes]
 ***Paper Notes**:  Beginning with this post, I've decided to read one paper every two weeks and post my notes here as a concrete deliverable.  This is part of a habit I'd like to cultivate to read more books, academic papers, and industry blogs.*
 
 ## Summary
-**The paper:** [KDD2020 - Personalized Prefix Embedding for POI Auto-Completion in the Search Engine of Baidu Maps](https://www.kdd.org/kdd2020/accepted-papers/view/personalized-prefix-embedding-for-poi-auto-completion-in-the-search-engine-)
+**The paper:** [Huang, Jizhou, Haifeng Wang, Miao Fan, An Zhuo, and Ying Li. 2020. “Personalized Prefix Embedding for POI Auto-Completion in the Search Engine of Baidu Maps.” In Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, 2677–85. KDD ’20. New York, NY, USA: Association for Computing Machinery.](https://www.kdd.org/kdd2020/accepted-papers/view/personalized-prefix-embedding-for-poi-auto-completion-in-the-search-engine-)
 
 The paper describes how Baidu Maps improved upon their GBRank-based baseline ranker for POI autosuggest by combining (Q) biLSTM personalized query prefix embeddings with (P) POI attribute embeddings and applying (T) triplet loss training. 
 
@@ -35,7 +35,7 @@ Training examples are built from historical user click behavior; for a given que
 ### Results
 The basic baseline model is "$$PAC$$ (V1.x)".  This uses time/space/demographic popularity features to re-rank POIs from the candidate retrieval step.
 
-The improved baseline model to beat is "$$P^{2}AC$$ v2.1", which, in addition to the basic features, learns POI embeddings in order to account for the similarity between candidate POIs and a user's historical POIs.  According to the authors, these embeddings are learned in a manner similar to Word2Vec.  My guess is that this means taking user POI usage sequences as the context for applying CBOW or skip-gram prediction, though there are definitely other definitions which would be valid.  To generalize to new POIs, the baseline apparently used the same POI attribute encoding approach used in this paper.  This model gets NDCG@5=0.66 on the offline test datset.
+The improved baseline model to beat is "$$P^{2}AC$$ v2.1", which, in addition to the basic features, learns POI embeddings in order to account for the similarity between candidate POIs and a user's historical POIs.  According to the authors, these embeddings are learned in a manner similar to Word2Vec.  My guess is that this means taking user POI usage sequences as the context for applying CBOW or skip-gram prediction, though there are definitely other definitions which would be valid.  To generalize to new POIs, the baseline apparently used the same POI attribute encoding approach used in this paper.  This model gets NDCG@5=0.66 on the offline test dataset.
 
 The model developed in the paper is "$$P^{3}AC$$ (V3.x)".
 
