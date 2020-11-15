@@ -21,8 +21,7 @@
 title: Eric Doi
 email: eric.kosei.doi@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi, I'm Eric, and I'm out to use data and software to make the world run smarter.
-  Born in LA, currently in Singapore.
+  Software + Data
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ericdoi.com" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: ericdoi
