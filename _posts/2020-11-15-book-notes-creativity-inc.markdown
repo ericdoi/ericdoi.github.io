@@ -17,7 +17,7 @@ I also find myself getting frustrated with Kindle's highlight and note limits (1
 
 I’ve been participating in a book club at work, and this was one of our recent reads. [^1]
 
-In this book, Ed Catmull, the co-founder and technical expert behind Pixar, shares his journey to create the world’s best computer-animated films and create a company culture that can nurture creativity and innovation.  He argues that Pixar’s core principles—such as valuing teams over ideas, pursuing quality over efficency, removing hierarchy and oversight, encouraging candor and ownership, balancing exploration and exploitation (or, as he calls it, feeding the Hungry Beast vs. the Ugly Baby), and embracing change, uncertainty, and failure—were not only the key to Pixar’s success but also allowed Catmull and Lasseter to turn around Disney Animation (whose Frozen movies have surpassed even Pixar’s movies in sales). [^2]
+In this book, Ed Catmull, the co-founder and technical expert behind Pixar, shares his journey to create the world’s best computer-animated films and create a company culture that can nurture creativity and innovation.  He argues that Pixar’s core principles—such as removing hierarchy and oversight, valuing teams over ideas, pursuing quality over efficency, encouraging candor and ownership, balancing exploration and exploitation (or, as he calls it, feeding the Hungry Beast vs. the Ugly Baby), and embracing change, uncertainty, and failure—were not only the key to Pixar’s success but also allowed Catmull and Lasseter to turn around Disney Animation (whose Frozen movies have surpassed even Pixar’s movies in sales). [^2]
 
 ## Catmull’s background
 In 1969, Catmull graduated from University of Utah with degrees in Physics and CS.  He actually intended to pursue computer language design in grad school, but met Ivan Sutherland and he started in computer graphics.  There he meets incredible people including Jim Clark (founder of SGI and Netscape), John Warnock (founder of Adobe), and Alan Kay (pioneer of OO programming and GUIs), and gets exposed to APRANET.  This fertile environment shapes his technical and innovative career.  He formulates a vision to combine his childhood loves of Disney (art) and Einstein (science) to create computer-generated animation films.
@@ -26,6 +26,17 @@ As an engineer I was very interested in the details of his career path, but it�
 
 ## Values and Principles
 
+### Removing hierarchy and oversight
+Catmull's first role out of graduate school was to hire and lead a research lab to develop computer animation.  Using his academic lab as a model, he created a flat-hierarchy environment and a culture of sharing results with academia in conferences and journals, which was counter to most industry labs at the time.  He discovered that this attracted highly talented people, whom he hired even when he feared he could be making himself obsolete.  Although he eventually had to create management layers at Pixar, he strove to keep the sense of hierarchy as low as possible.
+
+* About a grand meeting table that scaled poorly as Pixar grew larger:  
+
+  > The closer you were seated to the middle of the table, it implied, the more important—the more central—you must be. And the farther away, the less likely you were to speak up—your distance from the heart of the conversation made participating feel intrusive.
+	
+* On the temptation of oversight:  
+
+  > The potential cost of failure appears far more damaging than that of micromanaging. But if we shun such necessary investment—tightening up controls because we fear the risk of being exposed for having made a bad bet—we become the kind of rigid thinkers and managers who impede creativity.
+  
 ### Teams over ideas
 * On how a small change to Toy Story 2 (adding the Wheezy character) transformed the emotion of the film:
 
@@ -36,18 +47,11 @@ As an engineer I was very interested in the details of his career path, but it�
   > Even the smartest people can form an ineffective team if they are mismatched. That means it is better to focus on how a team is performing, not on the talents of the individuals within it.
 
 ### Pursuing quality over efficiency
-* Thoughts on Deming and Japan’s Kaizen principles:
+In an industry where innovation, rather than output volume, is the most important factor, Catmull exhorts pursuit of quality over efficiency.
+
+He cites Edward Deming's revitalization of Japanese manufacturing and the subsequent Kaizen system as a source of inspiration:
 
   > To ensure quality, I believed, any person on any team needed to be able to identify a problem and, in effect, pull the cord to stop the line. To create a culture in which this was possible, you needed more than a cord within easy reach. You needed to show your people that you meant it when you said that while efficiency was a goal, quality was the goal. More and more, I saw that by putting people first—not just saying that we did, but proving that we did by the actions we took—we were protecting that culture.
-
-### Removing hierarchy and oversight
-* About a grand meeting table that scaled poorly as Pixar grew larger:  
-
-  > The closer you were seated to the middle of the table, it implied, the more important—the more central—you must be. And the farther away, the less likely you were to speak up—your distance from the heart of the conversation made participating feel intrusive.
-	
-* On the temptation of oversight:  
-
-  > The potential cost of failure appears far more damaging than that of micromanaging. But if we shun such necessary investment—tightening up controls because we fear the risk of being exposed for having made a bad bet—we become the kind of rigid thinkers and managers who impede creativity.
 
 ### Encouraging candor and ownership
 In business valuing "honesty" is a truism.  So Catmull says we should aim even further, for "candor", which has less of a moral connotation and highlights the flip side: sometimes, being candid can hurt some feelings, but this is worth it in the long run.
