@@ -17,17 +17,17 @@ I also find myself getting frustrated with Kindle's highlight and note limits (1
 
 I’ve been participating in a book club at work, and this was one of our recent reads. [^1]
 
-In this book, Ed Catmull, the co-founder and technical expert behind Pixar, shares his journey to create the world’s best computer-animated films and create a company culture that can nurture creativity and innovation.  He argues that Pixar’s core principles—such as removing hierarchy and oversight, valuing teams over ideas, pursuing quality over efficency, encouraging candor and ownership, balancing exploration and exploitation (or, as he calls it, feeding the Hungry Beast vs. the Ugly Baby), and embracing change, uncertainty, and failure—were not only the key to Pixar’s success but also allowed Catmull and Lasseter to turn around Disney Animation (whose Frozen movies have surpassed even Pixar’s movies in sales). [^2]
+In this book, Ed Catmull, the co-founder and technical expert behind Pixar, shares his journey to create the world’s best computer-animated films and create a company culture that can nurture creativity and innovation.  He argues that Pixar’s core principles—such as removing hierarchy and oversight, valuing teams over ideas, pursuing quality over efficency, encouraging candor and ownership, balancing exploration and exploitation (or, as he calls it, feeding the Hungry Beast vs. the Ugly Baby), and embracing change, uncertainty, and failure—were not only the key to Pixar’s success but also allowed Catmull, Lasseter, and Jobs to turn around Disney Animation (whose Frozen movies have surpassed even Pixar’s movies in sales). [^2]
 
 ## Catmull’s background
 In 1969, Catmull graduated from University of Utah with degrees in Physics and CS.  He actually intended to pursue computer language design in grad school, but met Ivan Sutherland and he started in computer graphics.  There he meets incredible people including Jim Clark (founder of SGI and Netscape), John Warnock (founder of Adobe), and Alan Kay (pioneer of OO programming and GUIs), and gets exposed to APRANET.  This fertile environment shapes his technical and innovative career.  He formulates a vision to combine his childhood loves of Disney (art) and Einstein (science) to create computer-generated animation films.
 
-As an engineer I was very interested in the details of his career path, but it’s not the key lesson of the book so I’ll skip them here.
+As an engineer I was very interested in the details of his career path and the rise of Pixar, but it’s not the key lesson of the book so I’ll skip them here.
 
 ## Values and Principles
 
 ### Removing hierarchy and oversight
-Catmull's first role out of graduate school was to hire and lead a research lab to develop computer animation.  Using his academic lab as a model, he created a flat-hierarchy environment and a culture of sharing results with academia in conferences and journals, which was counter to most industry labs at the time.  He discovered that this attracted highly talented people, whom he hired even when he feared he could be making himself obsolete.  Although he eventually had to create management layers at Pixar, he strove to keep the sense of hierarchy as low as possible.
+Catmull's first role out of graduate school was to hire and lead a research lab to develop computer animation.  Using his graduate academic lab as a model, he created a flat-hierarchy environment and a culture of sharing results with academia in conferences and journals, which was counter to most industry labs at the time.  He discovered that this attracted highly talented people, whom he hired even when he feared he could be making himself obsolete.  Although he eventually had to create management layers at Pixar, he strove to keep the sense of hierarchy as low as possible.
 
 * About a grand meeting table that scaled poorly as Pixar grew larger:  
 
@@ -86,6 +86,8 @@ Catmull has a more colorful metaphor:  he envisions all of the company’s known
     * Or, a great quote from Ratatouille’s Anton Ego:  *"The world is often unkind to new talent, new creations. The new needs friends."*
 
 ### Embracing change, uncertainty, and failure
+Every entrepreneur has a story about being adaptable and struggling through failure, and Catmull is no exception.  Amazingly, after Jobs bought Pixar from Lucasfilm, the company spent its first 4 years trying to sell high-end computers in order to wait for computing technology to improve enough to make computer-animated films possible.  The hardware selling ended up losing money, however, and Jobs nearly sold Pixar (after sinking $50M into Pixar)--but gave up after several attempts.  Even after the initial success of Toy Story, Catmull cites another "near-death" experience when an employee deleted Toy Story 2 and the company only had a one-off backup thanks to another employee who had gone away on maternity leave.  Over the years he learned that there is a lot of randomness and uncertainty in business and the best approach is to prepare for it rather than resist it.
+
 * Don’t vilify failure:
 
   > Take something like the Golden Fleece Awards, which were established in 1975 to call attention to government- funded projects that were particularly egregious wastes of money. (Among the winners were things like an $84,000 study on love commissioned by the National Science Foundation, and a $3,000 Department of Defense study that examined whether people in the military should carry umbrellas.) While such scrutiny may have seemed like a good idea at the time, it had a chilling effect on research. No one wanted to "win" a Golden Fleece Award because, under the guise of avoiding waste, its organizers had inadvertently made it dangerous and embarrassing for everyone to make mistakes.
