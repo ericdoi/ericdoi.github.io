@@ -31,5 +31,5 @@ This is a light paper suggesting a categorization of web searches into 3 main ty
     * 2nd gen (1998):  support info + nav queries.  Use off-page data (link analysis, click-through data, anchor text) for nav.  Google etc.
     * 3rd gen (2002):  support info + nav + transactional queries.  Blend external databases and try to address “the need behind the query”.  E.g. “San Francisco” -> hotel booking, map, weather, etc.  Use semantic analysis, context, dynamic pages, etc.
 
-### Thoughts
+## Thoughts
 Picked an easy and short one since I was short on time this week.  It's a practical "lay of the land" guide for thinking about what search engines do.
