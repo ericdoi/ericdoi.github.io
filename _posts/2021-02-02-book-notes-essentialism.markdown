@@ -10,7 +10,7 @@ Clearly, I haven't been following the schedule for the past couple of months.  T
 
 However, I would like to keep reading and summarizing here in a bare-minimum way, so I've blocked out 15 minutes of my mornings (just as suggested in the book) and that's how I got today's post in.  I've found that even if this is fragmented, (1) it isn't that hard to pick up where I left off because I am doing it daily, (2) it doesn't cause any context switching with my day's main task because I do it first thing in the morning, and (3) it helps me stick to the time-boxing and scoping because I know if I don't finish it today, I'll get to start again tomorrow.  I've followed this for the notes writeup as well, which helped me limit its scope to what I could finish in 15m chunks.
 
-***Book Notes**:  I've decided to read at least one book per month and post my notes here as a concrete deliverable.  This is part of a habit I'd like to cultivate to read more books, academic papers, and industry blogs.*
+***Book Notes**:  I've decided to read at least one book per month(?) and post my notes here as a concrete deliverable.  This is part of a habit I'd like to cultivate to read more books, academic papers, and industry blogs.*
 
 ***Next book**: TBD*
 
